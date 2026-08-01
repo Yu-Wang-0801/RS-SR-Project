@@ -23,6 +23,7 @@ Image and Video Super Resolution
 
 | Paper | Published | Year | Code |
 |:-----|:-----:|:-----:|:-----:|
+| TAIS-Net: Time adaptive implicit sampling diffusion model for arbitrary-scale UAV video super-resolution | ISPRS | 2026 | [Code](https://github.com/cyber-lwk/TAIS-Net) |
 | EBRNet: Lightweight Enhanced Bidirectional Recurrent Network for Satellite Video Super-Resolutionn | TGRS | 2026 | [Code](https://github.com/dz0602pshr/EBRNet) |
 | Multi-Axis Feature Diversity Enhancement for Remote Sensing Video Super-Resolution | TIP | 2025 | [Code](https://github.com/XY-boy/MADNet) |
 | Local-global temporal difference learning for satellite video super-resolution | TCSVT | 2024 | [Code](https://github.com/XY-boy/LGTD) |
