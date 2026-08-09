@@ -5,9 +5,12 @@ Image and Video Super Resolution
 
 | Paper | Published | Year | Code |
 |:-----|:-----:|:-----:|:-----:|
+| WaveHMT: Efficient Hybrid Mamba–Transformer for Remote Sensing Image Super-Resolution via Spatial–Wavelet SSM | ISPRS | 2026 | [Code](https://github.com/Lmy-0914/WaveHMT) |
 | CDEHAT: Conditional Diffusion-Assisted Enhanced Hybrid Attention Transformer for Remote Sensing Imagery Super-Resolution | ISPRS | 2026 | [Code](https://github.com/cerulean136/CDEHAT) |
 | CGA: Curvature-Guided Attention for Remote Sensing Image Super-Resolution | TGRS | 2026 | [Code](https://github.com/mwaleedaslam/CGA) |
 | MT: A Hybrid Mamba-Transformer for Remote Sensing Image Super-Resolution | TGRS | 2026 | [Code](https://github.com/geligegege/MT) |
+| Semantic-Guided Flow Matching for Fast and Accurate Remote Sensing Image Super-Resolution | TGRS | 2025 | [Code](https://github.com/YuukiGong/SfmSR) |
+| HAM: Hierarchical Attention Mamba With Spatial–Frequency Fusion for Remote Sensing Image Super-Resolution | TGRS | 2025 | [Code](https://github.com/Lmy-0914/HAM) |
 | SeG-SR: Integrating Semantic Knowledge Into Remote Sensing Image Super-Resolution via Vision-Language Model | TGRS | 2025 | [Code](https://github.com/Mr-Bamboo/SeG-SR) |
 | Rep-Mamba: Re-parameterization in Vision Mamba for Lightweight Remote Sensing Image Super-Resolution | TGRS | 2025 | [Code](https://github.com/meigeni0929/Rep-Mamba) |
 | Spiking meets attention: Efficient remote sensing image super-resolution with attention spiking neural networks | NeurIPS | 2025 | [Code](https://github.com/XY-boy/SpikeSR) |
