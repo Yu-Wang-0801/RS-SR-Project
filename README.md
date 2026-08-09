@@ -5,6 +5,7 @@ Image and Video Super Resolution
 
 | Paper | Published | Year | Code |
 |:-----|:-----:|:-----:|:-----:|
+| DSCT: Dual-Sparse Coherent Transformer With Cross-Feature Alignment for Remote Sensing Image Super-Resolution | JSTARS | 2026 |  |
 | WaveHMT: Efficient Hybrid Mamba–Transformer for Remote Sensing Image Super-Resolution via Spatial–Wavelet SSM | ISPRS | 2026 | [Code](https://github.com/Lmy-0914/WaveHMT) |
 | CDEHAT: Conditional Diffusion-Assisted Enhanced Hybrid Attention Transformer for Remote Sensing Imagery Super-Resolution | ISPRS | 2026 | [Code](https://github.com/cerulean136/CDEHAT) |
 | CGA: Curvature-Guided Attention for Remote Sensing Image Super-Resolution | TGRS | 2026 | [Code](https://github.com/mwaleedaslam/CGA) |
