@@ -5,6 +5,9 @@ Image and Video Super Resolution
 
 | Paper | Published | Year | Code |
 |:-----|:-----:|:-----:|:-----:|
+| Activation Map-Based Visual Explanation for Remote Sensing Image Super-Resolution | GRSL | 2026 | [Code](https://github.com/yaoxudong241/AMVE-SR) |
+| Uncertainty Estimation Optimization for Reliable Remote Sensing Single-Image Super-Resolution | TGRS | 2026 | [Code](https://github.com/yaoxudong241/UEO) |
+| ORDiffSR: An effective one-step diffusion network for single remote sensing image super-resolution | ESWA | 2026 | [Code](https://github.com/TeresaTing/ORDiffSR) |
 | Remote Sensing Image Super-Resolution for Imbalanced Textures: A Texture-Aware Diffusion Framework | CVPR | 2026 | [Code](https://github.com/ZezFuture/TexAdiff) |
 | DSCT: Dual-Sparse Coherent Transformer With Cross-Feature Alignment for Remote Sensing Image Super-Resolution | JSTARS | 2026 |  |
 | WaveHMT: Efficient Hybrid Mamba–Transformer for Remote Sensing Image Super-Resolution via Spatial–Wavelet SSM | ISPRS | 2026 | [Code](https://github.com/Lmy-0914/WaveHMT) |
@@ -17,6 +20,7 @@ Image and Video Super Resolution
 | Rep-Mamba: Re-parameterization in Vision Mamba for Lightweight Remote Sensing Image Super-Resolution | TGRS | 2025 | [Code](https://github.com/meigeni0929/Rep-Mamba) |
 | Spiking meets attention: Efficient remote sensing image super-resolution with attention spiking neural networks | NeurIPS | 2025 | [Code](https://github.com/XY-boy/SpikeSR) |
 | Lightweight remote sensing super-resolution with multi-scale graph attention network | PR | 2025 | [Code](https://github.com/Yu-Wang-0801/MSGAN) |
+| Single-Image Superresolution for RGB Remote Sensing Imagery via Multiscale CNN-Transformer Feature Fusion | JSTARS | 2025 | [Code](https://github.com/yaoxudong241/MSCT) |
 | Frequency-Assisted Mamba for Remote Sensing Image Super-Resolution | TMM | 2025 | [Code](https://github.com/XY-boy/FreMamba) |
 | Efficient Swin Transformer for Remote Sensing Image Super-Resolution | TIP | 2024 | [Code](https://github.com/PuhongDuan/ESTNet) |
 | TTST: A top-k token selective transformer for remote sensing image super-resolution | TIP | 2024 | [Code](https://github.com/XY-boy/TTST) |
