@@ -5,6 +5,7 @@ Image and Video Super Resolution
 
 | Paper | Published | Year | Code |
 |:-----|:-----:|:-----:|:-----:|
+| Learning to Balance: Decoupled Siamese Diffusion Transformer for Reference-Based Remote Sensing Image Super-Resolution | ECCV | 2026 | [Code](https://github.com/B1nary-L/DS-DiT) |
 | Activation Map-Based Visual Explanation for Remote Sensing Image Super-Resolution | GRSL | 2026 | [Code](https://github.com/yaoxudong241/AMVE-SR) |
 | Uncertainty Estimation Optimization for Reliable Remote Sensing Single-Image Super-Resolution | TGRS | 2026 | [Code](https://github.com/yaoxudong241/UEO) |
 | ORDiffSR: An effective one-step diffusion network for single remote sensing image super-resolution | ESWA | 2026 | [Code](https://github.com/TeresaTing/ORDiffSR) |
