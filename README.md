@@ -5,6 +5,7 @@ Image and Video Super Resolution
 
 | Paper | Published | Year | Code |
 |:-----|:-----:|:-----:|:-----:|
+| SlimDiffSR: Toward Efficient Remote Sensing Image Super-Resolution via Diffusion Model Distillation | TGRS | 2026 | [Code](https://github.com/wwangcece/SlimDiffSR) |
 | Lightweight Dual-Domain Attention Aggregation Network for Remote Sensing Image Super-Resolution | ACM TOMM | 2026 | [Code](https://github.com/AHUT-MILAGroup/LDANet) |
 | Learning to Balance: Decoupled Siamese Diffusion Transformer for Reference-Based Remote Sensing Image Super-Resolution | ECCV | 2026 | [Code](https://github.com/B1nary-L/DS-DiT) |
 | Activation Map-Based Visual Explanation for Remote Sensing Image Super-Resolution | GRSL | 2026 | [Code](https://github.com/yaoxudong241/AMVE-SR) |
@@ -34,6 +35,7 @@ Image and Video Super Resolution
 
 | Paper | Published | Year | Code |
 |:-----|:-----:|:-----:|:-----:|
+| HMFVSRNet: Hybrid-Granularity Mamba Learning for Satellite Video Super-Resolution | ESWA | 2026 | [Code](https://anonymous.4open.science/r/HMFVSRNet-18DD/README.md) |
 | TAIS-Net: Time adaptive implicit sampling diffusion model for arbitrary-scale UAV video super-resolution | ISPRS | 2026 | [Code](https://github.com/cyber-lwk/TAIS-Net) |
 | EBRNet: Lightweight Enhanced Bidirectional Recurrent Network for Satellite Video Super-Resolutionn | TGRS | 2026 | [Code](https://github.com/dz0602pshr/EBRNet) |
 | Multi-Axis Feature Diversity Enhancement for Remote Sensing Video Super-Resolution | TIP | 2025 | [Code](https://github.com/XY-boy/MADNet) |
