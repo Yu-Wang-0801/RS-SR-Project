@@ -5,6 +5,8 @@ Image and Video Super Resolution
 
 | Paper | Published | Year | Code |
 |:-----|:-----:|:-----:|:-----:|
+| Deep Learning for Remote Sensing Image Superresolution: A comprehensive review and a new real-world benchmark
+| GRSM | 2026 | [Code](https://github.com/Meng-333/L8S2PS-SR) |
 | SlimDiffSR: Toward Efficient Remote Sensing Image Super-Resolution via Diffusion Model Distillation | TGRS | 2026 | [Code](https://github.com/wwangcece/SlimDiffSR) |
 | Lightweight Dual-Domain Attention Aggregation Network for Remote Sensing Image Super-Resolution | ACM TOMM | 2026 | [Code](https://github.com/AHUT-MILAGroup/LDANet) |
 | Learning to Balance: Decoupled Siamese Diffusion Transformer for Reference-Based Remote Sensing Image Super-Resolution | ECCV | 2026 | [Code](https://github.com/B1nary-L/DS-DiT) |
