@@ -5,6 +5,7 @@ Image and Video Super Resolution
 
 | Paper | Published | Year | Code |
 |:-----|:-----:|:-----:|:-----:|
+| Hierarchical Progressive Distillation for Image Super-Resolution of Remote Sensing | TGRS | 2026 |  |
 | Deep Learning for Remote Sensing Image Superresolution: A comprehensive review and a new real-world benchmark | GRSM | 2026 | [Code](https://github.com/Meng-333/L8S2PS-SR) |
 | SlimDiffSR: Toward Efficient Remote Sensing Image Super-Resolution via Diffusion Model Distillation | TGRS | 2026 | [Code](https://github.com/wwangcece/SlimDiffSR) |
 | Lightweight Dual-Domain Attention Aggregation Network for Remote Sensing Image Super-Resolution | ACM TOMM | 2026 | [Code](https://github.com/AHUT-MILAGroup/LDANet) |
@@ -36,6 +37,7 @@ Image and Video Super Resolution
 
 | Paper | Published | Year | Code |
 |:-----|:-----:|:-----:|:-----:|
+| Remote sensing video super-resolution via various real-world degradation modeling | ISPRS | 2026 | [Code](https://shiaoo.github.io/RWD_VSR/) |
 | HMFVSRNet: Hybrid-Granularity Mamba Learning for Satellite Video Super-Resolution | ESWA | 2026 | [Code](https://anonymous.4open.science/r/HMFVSRNet-18DD/README.md) |
 | TAIS-Net: Time adaptive implicit sampling diffusion model for arbitrary-scale UAV video super-resolution | ISPRS | 2026 | [Code](https://github.com/cyber-lwk/TAIS-Net) |
 | EBRNet: Lightweight Enhanced Bidirectional Recurrent Network for Satellite Video Super-Resolutionn | TGRS | 2026 | [Code](https://github.com/dz0602pshr/EBRNet) |
