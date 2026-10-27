@@ -5,6 +5,8 @@ Image and Video Super Resolution
 
 | Paper | Published | Year | Code |
 |:-----|:-----:|:-----:|:-----:|
+| PRGD: Proximal Residual-Guided Diffusion with pattern-aware experts for
+remote sensing image super-resolution | ISPRS | 2026 |  |
 | Hierarchical Progressive Distillation for Image Super-Resolution of Remote Sensing | TGRS | 2026 |  |
 | Deep Learning for Remote Sensing Image Superresolution: A comprehensive review and a new real-world benchmark | GRSM | 2026 | [Code](https://github.com/Meng-333/L8S2PS-SR) |
 | SlimDiffSR: Toward Efficient Remote Sensing Image Super-Resolution via Diffusion Model Distillation | TGRS | 2026 | [Code](https://github.com/wwangcece/SlimDiffSR) |
